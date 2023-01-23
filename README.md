@@ -1,30 +1,31 @@
 <div style="display: inline_block"><br>
   <img aling"center" alt="cabecalho" height="100%" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH8fmvOa7kOJA/profile-displaybackgroundimage-shrink_350_1400/0/1674415380213?e=1680134400&v=beta&t=kuPXAjAQtBTiM0wS5xDx8mOFy4QKPzLP4W7Z6TDBSpM">
-  <a href="https://instagram.com/mano_harryph" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-ricardo-fernandes-assis-086b64238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Plassi5" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>  
+</div>
 
 ##
-
 -  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end.
 -  Atualmente estou me aprofundando em diversas linguagens dentro do Front-end.
-
 ##
 
 <div>
   <a href="https://github.com/ManoHarry">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoHarry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoHarry&layout=compact&theme=tokyonight" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoHarry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoHarry&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-##
+  
+<div>
+  <a href="https://instagram.com/mano_harryph" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-ricardo-fernandes-assis-086b64238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Plassi5" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+   ![Snake animation](https://github.com/ManoHarry/ManoHarry/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
