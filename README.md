@@ -26,7 +26,7 @@
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  ![Snake animation](https://github.com/ManoHarry/ManoHarry/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/ManoHarry/ManoHarry/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
