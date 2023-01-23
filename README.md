@@ -29,5 +29,5 @@
 
 </div>
 
-![Snake animation](https://github.com/ManoHarry/ManoHarry.git/)
+![Snake animation](https://github.com/ManoHarry/ManoHarry/blob/main/.github/workflows/cobrinha.yml)
 
