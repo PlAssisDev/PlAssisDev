@@ -28,6 +28,5 @@
   
 </div>
 
-![snake gif](https://github.com/ManoHarry/ManoHarry/blob/output/github-contribution-grid-snake.svg)
 
 
