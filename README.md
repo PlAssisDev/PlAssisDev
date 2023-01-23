@@ -15,7 +15,7 @@
 <div>
   <a href="https://github.com/ManoHarry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoHarry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoHarry&layout=compact&theme=tokyonight" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoHarry&layout=compact&theme=tokyonight" />
 </div>
 
 ##
