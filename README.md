@@ -3,8 +3,7 @@
 </div>
 
 ##
--  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end.
--  Atualmente estou me aprofundando em diversas linguagens dentro do Front-end.
+-  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end, que atualmente estou me aprofundando  e também em diversas linguagens dentro do mundo da programação e aperfeiçoando cada detalhe.
 ##
 
 <div>
