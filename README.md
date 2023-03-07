@@ -9,8 +9,7 @@
 <div>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PlAssisDev/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PlAssisDev/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=radical)
  
 <div>
   <a href="https://instagram.com/mano_harryph" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
