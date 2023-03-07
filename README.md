@@ -24,7 +24,7 @@
   <img align="center" alt="Paulo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-   ![Snake animation](https://github.com/ManoHarry/ManoHarry/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/PlAssisDev/PlAssisDev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
