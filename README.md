@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/PlAssisDev">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=radical)
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
