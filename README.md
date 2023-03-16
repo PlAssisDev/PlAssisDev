@@ -16,6 +16,8 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=10&theme=dark"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=dark"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/PlAssisDev/github-readme-stats)
 </div>
 
 ##
