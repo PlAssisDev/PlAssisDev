@@ -35,5 +35,5 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=blink&fontColor=d6d6d6&rotate=-180">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=blink&fontColor=d6d6d6&rotate=180">
  
