@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=blink&fontColor=d6d6d6">
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&text=Prazer_me_chamo_Paulo&animation=blink&fontColor=d6d6d6">
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&text=Prazer me chamo Paulo&animation=blink&fontColor=d6d6d6">
 
 
 
