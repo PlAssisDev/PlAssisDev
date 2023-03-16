@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&reversal=true&color=gradient">
 
 
 
@@ -35,5 +35,5 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&animation=blink&fontColor=d6d6d6&rotate=-30&reversal=true&color=gradient">
+<img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=gradient">
  
