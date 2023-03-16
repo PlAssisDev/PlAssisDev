@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=fadeIn">
 <img width=100% src="https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn">
 
 <div style="display: inline_block"><br>
