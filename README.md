@@ -1,5 +1,5 @@
 
-<img width=200vh src="https://capsule-render.vercel.app/api?type=waving">
+<img width=200 src="https://capsule-render.vercel.app/api?type=waving">
 
 <div style="display: inline_block"><br>
   <img aling"center" alt="cabecalho" height="100%" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH8fmvOa7kOJA/profile-displaybackgroundimage-shrink_350_1400/0/1674415380213?e=1680134400&v=beta&t=kuPXAjAQtBTiM0wS5xDx8mOFy4QKPzLP4W7Z6TDBSpM">
