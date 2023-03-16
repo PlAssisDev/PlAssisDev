@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice">
-![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?type=waving)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving">
 
 <div style="display: inline_block"><br>
