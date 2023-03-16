@@ -1,9 +1,6 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=fadeIn">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=scaleIn">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=blink">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=blinking">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Bem-vindos&animation=twinkling">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=blink%fontColor=ffffff">
+
 
 
 
