@@ -1,6 +1,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=blink&fontColor=d6d6d6">
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&text=Prazer-me-chamo-Paulo&animation=blink&fontColor=d6d6d6">
 
 
 
@@ -35,4 +34,6 @@
    ![Snake animation](https://github.com/PlAssisDev/PlAssisDev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=blink&fontColor=d6d6d6&rotate=-180">
  
