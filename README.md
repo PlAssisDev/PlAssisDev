@@ -13,9 +13,9 @@
 -  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end, que atualmente estou me aprofundando  e também em diversas linguagens dentro do mundo da programação e aperfeiçoando cada detalhe.
 ##
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=radical"/>
+<div aling="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=radical"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=radical"/>
 </div>
 
  
