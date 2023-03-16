@@ -1,10 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&reversal=true&color=gradient">
 
-
-
-
-
 <div style="display: inline_block"><br>
   <img aling"center" alt="cabecalho" height="100%" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH8fmvOa7kOJA/profile-displaybackgroundimage-shrink_350_1400/0/1674415380213?e=1680134400&v=beta&t=kuPXAjAQtBTiM0wS5xDx8mOFy4QKPzLP4W7Z6TDBSpM">
 </div>
@@ -14,7 +10,7 @@
 ##
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&border_color=transparent&layout=compact&langs_count=10&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=10&theme=dark"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=dark"/>
   
 </div>
@@ -46,4 +42,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=gradient">
- 
