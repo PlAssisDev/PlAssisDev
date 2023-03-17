@@ -10,7 +10,7 @@
 ##
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&hide_border=true&langs_count=10&theme=dark"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&hide_border=true&theme=dark"/>
   
 </div>
