@@ -35,7 +35,7 @@
   
 </div>  
   
-<div>
+<div align="center">
   
 ![Snake animation](https://github.com/PlAssisDev/PlAssisDev/blob/output/github-contribution-grid-snake.svg)
   
