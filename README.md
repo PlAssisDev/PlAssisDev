@@ -35,7 +35,7 @@
   
 </div>  
   
-<div style="display: inline_block">
+<div>
   
 ![Snake animation](https://github.com/PlAssisDev/PlAssisDev/blob/output/github-contribution-grid-snake.svg)
   
