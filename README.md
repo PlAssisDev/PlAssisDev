@@ -9,8 +9,8 @@
 <div align="center">
 
 </div>
-![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Me+chamo+Paulo.;Paulo+Assis;PlAssisDev)
-![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;JubayerRiyad)
+![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Me+chamo+Paulo;Paulo+Assis;PlAssisDev)
+
 
 
 
