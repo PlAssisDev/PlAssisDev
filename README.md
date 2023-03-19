@@ -7,8 +7,10 @@
 </div>
 
 <div align="center">
-[![PlAssisDev](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=6F1AB6&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev)](https://git.io/PlAssisDev)
+![PlAssisDev](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=6F1AB6&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev)
 </div>
+![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;JubayerRiyad)
+
 
 
 ##
