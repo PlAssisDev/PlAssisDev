@@ -7,8 +7,10 @@
 </div>
 <br>
 
+<div align="center">
 ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Olá+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev;)
-
+![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Hi!+call+me+Paulo;Paulo+Assis;PlAssisDev;)
+</div>
 
 ##
 -  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end, que atualmente estou me aprofundando  e também em diversas linguagens dentro do mundo da programação e aperfeiçoando cada detalhe.
