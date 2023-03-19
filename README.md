@@ -1,6 +1,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&reversal=true&color=gradient">
 
+<br>
+
  ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F6F5F5&size=30&center=true&weight=700&lines=Olá!+Me+chamo+Paulo;Sou+um+coder+Junior;PlAssisDev;)
  ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&center=true&color=F6F5F5&size=30&weight=700&lines=Hi!+call+me+Paulo;I'm+junior+coder;😀)
 
