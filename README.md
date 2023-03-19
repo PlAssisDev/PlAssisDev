@@ -8,8 +8,8 @@
 <br>
 
 
- ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Olá+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev;)
- ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Hi!+call+me+Paulo;Paulo+Assis;PlAssisDev;)
+ ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Olá+Me+chamo+Paulo;Sou+um+coder+Junior;PlAssisDev;)
+ ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Hi!+call+me+Paulo;I'm+junior+coder;)
 
 
 ##
