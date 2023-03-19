@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=6F1AB6&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev)](https://git.io/typing-svg)
+[![PlAssisDev](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=600&color=6F1AB6&width=435&lines=Ol%C3%A1!+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev)](https://git.io/PlAssisDev)
 </div>
 
 
