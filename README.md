@@ -1,13 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&reversal=true&color=gradient">
 
+##
+
 <br>
 
  ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F6F5F5&size=30&center=true&weight=700&lines=Olá!+Me+chamo+Paulo;Sou+um+coder+Junior;PlAssisDev;)
  ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&center=true&color=F6F5F5&size=30&weight=700&lines=Hi!+call+me+Paulo;I'm+junior+coder;😀)
 
 ##
--  Hoje trabalho com vendas e busco oportunidades de emprego dentro da área de Front-end, que atualmente estou me aprofundando  e também em diversas linguagens dentro do mundo da programação e aperfeiçoando cada detalhe.
+-  Today, I work in sales and am actively seeking employment opportunities within the Front-end field. I am currently deepening my understanding of this area and expanding my knowledge in various programming languages, striving to refine every detail.
 ##
 
 <div align="center">
