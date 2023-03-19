@@ -5,14 +5,9 @@
 <div style="display: inline_block"><br>
   <img aling"center" alt="cabecalho" height="100%" width="100%" src="https://media.licdn.com/dms/image/D4D16AQH8fmvOa7kOJA/profile-displaybackgroundimage-shrink_350_1400/0/1674415380213?e=1680134400&v=beta&t=kuPXAjAQtBTiM0wS5xDx8mOFy4QKPzLP4W7Z6TDBSpM">
 </div>
+<br>
 
-<div align="center">
-
-</div>
-![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6F1AB6&size=30&weight=700&lines=Me+chamo+Paulo;Paulo+Assis;PlAssisDev)
-
-
-
+![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Inter&color=6F1AB6&size=30&weight=700&lines=Olá+Me+chamo+Paulo.;Paulo+Assis;PlAssisDev;)
 
 
 ##
