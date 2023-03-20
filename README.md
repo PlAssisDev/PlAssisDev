@@ -5,8 +5,7 @@
 
 <br>
 
- ![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F6F5F5&size=30&center=true&weight=700&lines=Olá!+Me+chamo+Paulo;Sou+um+coder+Junior;PlAssisDev;)<br>
-![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&center=true&color=F6F5F5&size=30&weight=700&lines=Hi!+Call+me+Paulo;I'm+junior+coder;😀)
+![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&center=true&color=F6F5F5&size=30&weight=700&lines=Hi!+Call+me+Paulo;I'm+junior+coder;)
 
 
 -  Today, I work in sales and am actively seeking employment opportunities within the Front-end field. I am currently deepening my understanding of this area and expanding my knowledge in various programming languages, striving to refine every detail.
