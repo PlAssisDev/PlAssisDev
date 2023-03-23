@@ -13,7 +13,7 @@
 
 <div align="center">
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=7&theme=dark"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&theme=dark"/>
+  <img width="48%" height="194px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&layout=compact&theme=dark"/>
   
 </div>
 
