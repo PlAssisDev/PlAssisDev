@@ -12,8 +12,8 @@
 ##
 
 <div align="center">
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=8&theme=dark"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=dark"/>
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&theme=transparent"/>
   
 </div>
 
