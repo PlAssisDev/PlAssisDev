@@ -5,13 +5,13 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cceciliaz}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PlAssisDev}/count.svg" /></p> 
 <br>
 </div>
 
 <br>
 
-![PlAssisDev](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&center=true&color=F6F5F5&size=30&vCenter=true&&weight=700&lines=Hi!+Call+me+Paulo;I'm+junior+coder;)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6F5F5a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+i'm+Paulo+Assis;I'm+junior+coder;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 -  Today, I work in sales and am actively seeking employment opportunities within the Front-end field. I am currently deepening my understanding of this area and expanding my knowledge in various programming languages, striving to refine every detail.
