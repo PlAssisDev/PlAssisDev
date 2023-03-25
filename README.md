@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&reversal=true&color=purple">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=fadeIn&fontColor=d6d6d6&color=purple">
 
 ##
 
@@ -49,4 +49,4 @@ div align="center">
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=gradient">
+<img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=purple">
