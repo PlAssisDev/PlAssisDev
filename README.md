@@ -19,13 +19,25 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PlAssisDev&bg_color=18122B&color=F7EFE5&line=674188&point=C3ACD0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+1
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PlAssisDev&show_icons=true&locale=en&layout=compact">
+
+2
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&locale=en">
+
+3
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PlAssisDev&">
+
+4
+<img src="https://komarev.com/ghpvc/?username=PlAssisDev&label=Profile%20views&color=0e75b6&style=flat">
+
+5
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PlAssisDev">
 
 
+<img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=7&theme=radical"/>
+<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&layout=compact&theme=radical"/>
 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=7&theme=radical"/>
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&layout=compact&theme=radical"/>
-  
-</div>
 
 ##
  
