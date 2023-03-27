@@ -19,7 +19,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PlAssisDev&bg_color=18122B&color=F7EFE5&line=674188&point=C3ACD0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+
+
+
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=7&theme=radical"/>
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&layout=compact&theme=radical"/>
   
