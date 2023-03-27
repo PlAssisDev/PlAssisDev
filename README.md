@@ -20,7 +20,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PlAssisDev&bg_color=18122B&color=F7EFE5&line=674188&point=C3ACD0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlAssisDev&">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlAssisDev&theme=dark">
 </div>
 
 <div align="center">
