@@ -21,9 +21,10 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PlAssisDev&">
 
-<img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&hide_border=true&langs_count=7&theme=radical"/>
-<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&hide_border=true&layout=compact&theme=radical"/>
-
+<div align="center">
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&shoy_icons=true&layout=compact&theme=dark"/>
+</div>
 
 ##
  
