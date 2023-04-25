@@ -3,13 +3,6 @@
 
 ##
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PlAssisDev}/count.svg" /></p> 
-<br>
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F6F5F5a4&size=35&center=true&vCenter=true&width=1000&lines=Hi!+i'm+Paulo+Assis;I'm+junior+coder;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -50,5 +43,12 @@
 ![Snake animation](https://github.com/PlAssisDev/PlAssisDev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PlAssisDev}/count.svg" /></p> 
+<br>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=2D033B">
