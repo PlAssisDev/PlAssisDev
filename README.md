@@ -10,12 +10,7 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlAssisDev&theme=dark&hide_border=true">
-</div>
-
-<div align="center">
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=dark"/>
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PlAssisDev&show_icons=true&layout=compact&theme=dark"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlAssisDev&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ##
